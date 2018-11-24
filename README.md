@@ -19,8 +19,7 @@ affidabilità, eliminando il più possibile articoli poco utili o click-bait, ci
 ---
 
 # Game Design
-## Libri
-### The Art of Game Design
+## The Art of Game Design
 <p align="center">
     <img src="https://images-na.ssl-images-amazon.com/images/I/51E-1xdR01L._SX403_BO1,204,203,200_.jpg">
 </p>
@@ -30,8 +29,18 @@ affidabilità, eliminando il più possibile articoli poco utili o click-bait, ci
 Suggerito da:
 - [davcri](https://forum.gameloop.it/u/davcri): *"ottimo libro per chi vuole capire cos'è il game design. Fornisce utili strumenti pratici per migliorare il design dei propri giochi."*
 
-# Graphic Engineering
-...
+# Game Programming
+## General Game Programming
 
-# Sound Engineering
+## Graphics Programming
+
+## Physics Programming
+
+## Network Programming
+
+## Game Engine Development
+
+# Audio Engineering
+...
+# Sound Design
 ...
