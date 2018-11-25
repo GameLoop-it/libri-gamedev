@@ -44,6 +44,16 @@ Suggerito da:
 **Livello:** Libro adatto a chi sa programmare, e magari ha fatto qualche piccolo gioco, ma vuole immergersi nei problemi grossi di giochi tripla A (tra gli altri).
 
 ## Graphics Programming
+### Learning Modern 3D Graphics Programming
+<p align="center">
+    <img src="https://vignette.wikia.nocookie.net/darkseries/images/9/96/No_book_cover_lg.jpg/revision/latest?cb=20170826200421">
+</p>
+
+[Link Free](https://paroj.github.io/gltut/)
+Suggerito da:
+- [Wintermute](https://forum.gameloop.it/u/Wintermute): *"Ci sono tantissimi libri <<di base>> per la computer graphics, e rimangono tanti anche se si considerano solo quelli che trattano solo il rendering 3D in real-time. Quasi tutti sono molto densi: pieni di concetti teorici, scritti più o meno bene, ma fanno fatica a focalizzarsi sui concetti introduttivi fondamentali che permettono anche di far apparire qualcosa sullo schermo. Per questo, per iniziare, io consiglio questo libro online: corto, ne troppo pratico ne troppo teorico, ben organizzato."*
+
+**Livello:** Libro adatto a chi vuole cominciare con real-time rendering anche da zero, certo qualche conoscenza di programmazione è necessaria.
 
 ## Physics Programming
 
