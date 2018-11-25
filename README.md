@@ -1,4 +1,4 @@
-# Libri consigliati per Game Dev
+# Libri consigliati per Game Development
 
 Questo repository contiene una lista di libri per lo studio dello sviluppo dei videogiochi.  
 
