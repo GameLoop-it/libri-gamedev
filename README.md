@@ -52,7 +52,7 @@ Suggerito da:
 [Link Free](https://paroj.github.io/gltut/)
 
 Suggerito da:
-- [Wintermute](https://forum.gameloop.it/u/Wintermute): *"Ci sono tantissimi libri "di base" per la computer graphics, e rimangono tanti anche se si considerano solo quelli che trattano solo il rendering 3D in real-time. Quasi tutti sono molto densi: pieni di concetti teorici, scritti più o meno bene, ma fanno fatica a focalizzarsi sui concetti introduttivi fondamentali che permettono anche di far apparire qualcosa sullo schermo. Per questo, per iniziare, io consiglio questo libro online: corto, ne troppo pratico ne troppo teorico, ben organizzato."*
+- [Wintermute](https://forum.gameloop.it/u/Wintermute): *"Ci sono tantissimi libri "di base" per la computer graphics, e rimangono tanti anche se si considerano solo quelli che trattano solo il rendering 3D in real-time. Quasi tutti sono molto densi: pieni di concetti teorici, scritti più o meno bene, ma fanno fatica a focalizzarsi sui concetti introduttivi fondamentali che permettono anche di far apparire qualcosa sullo schermo. Per questo, per iniziare, io consiglio questo libro online: corto, codice piuttosto moderno, ne troppo pratico ne troppo teorico, ben organizzato, e guida passo passo nella scrittura delle prime applicazioni."*
 
 **Livello:** Libro adatto a chi vuole cominciare con real-time rendering anche da zero, certo qualche conoscenza di programmazione è necessaria.
 
