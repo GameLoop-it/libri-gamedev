@@ -31,6 +31,17 @@ Suggerito da:
 
 # Game Programming
 ## General Game Programming
+### Game Engine Architecture (3rd edition)
+<p align="center">
+    <img src="https://www.gameenginebook.com/img/cover_full.png">
+</p>
+
+[Link Amazon](https://www.amazon.co.uk/Engine-Architecture-Third-Jason-Gregory/dp/1138035459/ref=sr_1_1?ie=UTF8&qid=1543158343&sr=8-1&keywords=Game+Engine+Architecture)
+
+Suggerito da:
+- [Wintermute](https://forum.gameloop.it/u/Wintermute): *"Il libro di Gregory, veterano di Naughty Dog, secondo me non riesce ad essere le guida definitiva allo sviluppo di engine che vorrebbe essere, visto che copre moltissimi argomenti ma non in maniera molto approfondita. Pero', si presta bene come panoramica su tutte le quesioni fondamentali legate al gamedev: animazione, rendering in 3D, fisica, AI, scripting lato gameplay, con poi i riferimenti diretti a libri o algoritmi. Recuperate la terza edizione, molto recente, visto che su questo tipo di libro il materiale aggiornato fa la differenza"
+
+*Livello:* Libro adatto a chi sa programmare, e magari ha fatto qualche piccolo gioco, ma vuole immergersi nei problemi grossi di giochi tripla A (tra gli altri).
 
 ## Graphics Programming
 
