@@ -31,6 +31,19 @@ Suggerito da:
 
 # Game Programming
 ## General Game Programming
+
+### Making Games with Python & Pygame
+<p align="center">
+    <img src="https://www.pygame.org/thumb/9d4d558e3cfc3e91b80a26a426107b1d.png">
+</p>
+
+[Link Free](https://inventwithpython.com/pygame/)
+
+Suggerito da:
+- [Wintermute](https://forum.gameloop.it/u/Wintermute): *"Programmare giochi richiede padronanza con alcunie idee fondamentali, ad esempio legate al fatto che si sta simulando un mondo, che lo sviluppo di altri software (eg. web) non necessita. Volete imparare il gamedev (anche conoscendo pochissimo la programmazione)? Lasciate stare Unity o Unreal. Questo libro si basa su python e pygame, che sono facili da installare su ogni sistema e da usare ma comunque funzionali, e vi guida da 0 nello sviluppo di vari giochi dalla complessità crescente, fornendovi codice sorgente e spiegandolo pezzo per pezzo. Potrete cosi facilmente comprendere alcune idee semplici legate a game loop, collisioni ecc."*
+
+**Livello:** Libro introduttivo adatto anche a chi conosce poca (o zero) programmazione.
+
 ### Game Engine Architecture (3rd edition)
 <p align="center">
     <img src="https://www.gameenginebook.com/img/cover_full.png">
