@@ -27,7 +27,9 @@ affidabilità, eliminando il più possibile articoli poco utili o click-bait, ci
 [Link Amazon](https://www.amazon.it/Art-Game-Design-Lenses-Second/dp/1466598646/ref=sr_1_1?ie=UTF8&qid=1542877767&sr=8-1&keywords=the+art+of+game+design)
 
 Suggerito da:
-- [davcri](https://forum.gameloop.it/u/davcri): *"ottimo libro per chi vuole capire cos'è il game design. Fornisce utili strumenti pratici per migliorare il design dei propri giochi."*
+- [davcri](https://forum.gameloop.it/u/davcri): *"Libro scritto molto bene, mai pesante grazie all'alternanza di spiegazioni, analisi, aneddoti e citazioni. Sembra quasi di farsi una lunga chiacchierata con l'autore Jesse Schell. Il libro è ricco di strumenti pratici per migliorare il design dei propri giochi, non solo riguardo il gameplay ma anche riguardo marketing, team management, publishing, testing, bilanciamento, storia, personaggi, psicologia, interfacce e molto altro."*
+
+**Livello**: Libro introduttivo, adatto a chi vuole capire cos'è il game design e come esso sia collegato alle molteplici discipline del gamedev.
 
 # Game Programming
 ## General Game Programming
